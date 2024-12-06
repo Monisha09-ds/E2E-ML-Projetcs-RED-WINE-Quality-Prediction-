@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]: %(message)s:')
-project_name ='ML project with Modular Coding Implementation'
+project_name ='MLproject'
 
 list_of_files =[
     ".github/workflows/.gitkeep",
